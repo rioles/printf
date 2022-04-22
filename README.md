@@ -1,5 +1,5 @@
 _printf()
-The printf project is a collaboration between Joshua Ezunya and Jose` Rioles , students of Software Engineering at ALX.
+The printf project is a collaboration between Francis Mwape and Jose` Rioles , students of Software Engineering at ALX.
 This function named "_printf()" imitates the actual "printf()" command located in the stdio.h library of C programming Language. It contains some of the basic features and functions found in the manual 3 of "printf".
 _printf() is a function that performs formatted output conversion and print data. Its prototype is the following:
   int _printf(const char *format, ...) 
@@ -102,8 +102,7 @@ Function That Prints An Integer Begining With 0 And u.
 /* Indetifier : % i */
 ev_print_func.c
 Function That Returns The Amount Of Indetifiers.
-Authors
-Joshua  Ezunya and Jose` Rioles  
+Authors Francis Mwape and Jose` Rioles  
 
 End
-joshua & Rioles @ ALX software engineering programme 2022.
+francis & Rioles @ ALX software engineering programme 2022.
